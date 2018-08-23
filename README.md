@@ -4,4 +4,4 @@ This repository has training information for the Kennesaw State University Auton
 
 ## [Start reading the wiki here](https://github.com/ksu-auv-team/training/wiki)
 
-## [See practice problems in the projects folder](https://github.com/ksu-auv-team/training/tree/master/projects)
+## [See practice problems and upload solutions in the projects folder](https://github.com/ksu-auv-team/training/tree/master/projects)
